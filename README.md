@@ -476,8 +476,9 @@ REST + JSON inter-agent protocol · Django orchestrating Search, Decision & Assi
 
 <br/>
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api?username=Nitheskumar123&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=8b5cf6&border_radius=12&rank_icon=github"/>
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitheskumar123&layout=donut&langs_count=8&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=12"/>
+<img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Nitheskumar123&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&icon_color=8b5cf6&border_radius=12&rank_icon=github"/>
+
+<img height="200em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Nitheskumar123&layout=donut&langs_count=8&theme=react&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=c9d1d9&border_radius=12"/>
 
 <br/>
 
